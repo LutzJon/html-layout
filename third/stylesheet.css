@@ -1,0 +1,67 @@
+#header {
+	display: block;
+	height: 6em;
+	background-color: gray;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+
+
+}
+#lildiv {
+    position: absolute;
+	height: 4em;
+	width: 4em;
+	background-color: blue;
+	margin-left: 1em;
+	margin-top: 1em;
+
+}
+p{
+	height: 8em;
+
+
+
+}
+#two {
+	display: block;
+	height: 6em;
+	background-color: blue;
+	
+	margin-left: -10px;
+	margin-right: -10px;
+
+
+}
+
+#three {
+	display: block;
+	height: 6em;
+	background-color: cyan;
+	
+	margin-left: -10px;
+	margin-right: -10px;
+
+
+}
+#four {
+	display: block;
+	height: 6em;
+	background-color: green;
+	
+	margin-left: -10px;
+	margin-right: -10px;
+
+
+}
+#five {
+	display: block;
+	height: 6em;
+	background-color: yellow;
+	
+	margin-left: -10px;
+	margin-right: -10px;
+
+
+
+}
