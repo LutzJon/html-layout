@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+#top {
+	height: 8em;
+	width: 100%;
+	background-color: #404040;
+}
+#left {
+	float: left;
+	height: 33em;
+	width: 20%;
+	background-color: #E0E0E0;
+}
+#right {
+	float: right; 
+	height: 33em;
+	width: 20%;
+	background-color: #E0E0E0;
+	
+}
+#middle{
+
+    display: inline-block;
+	margin: 8em, 20em, 20em 5em;
+	height: 30em;
+	width: 60%;
+	background-color: white;
+	
+}

@@ -1,0 +1,33 @@
+
+body {
+	background-color: #33ffcc
+}
+#left {
+	float: left;
+	margin-left: -10px;
+	margin-top: -10px;
+	height: 41em;
+	width: 33%;
+	background-color: #4096ee;
+
+
+}
+
+#right {
+	float: right;
+	margin-right: -10px;
+	margin-top: -10px;
+	height: 41em;
+	width: 33%;
+	background-color: #bdd684;
+
+}
+img {
+position: fixed;
+bottom: 0;
+right: 0;
+height: 15%;
+width: 32%;
+}
+
+
